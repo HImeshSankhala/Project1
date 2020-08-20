@@ -1,0 +1,25 @@
+/* body{
+    background-color: #0033a1;
+} */
+.card{
+    margin: 20px;
+}
+tr{
+    padding: 80px;
+}
+button{
+    margin-top: 20px;
+}
+#table-container{
+    margin-top:20px;
+}
+#card, #list{
+    border-radius: 100px;
+    color: black;
+}
+
+#nav-row{
+    width:30%;
+    margin-left:auto;
+    margin-right:auto;
+}
